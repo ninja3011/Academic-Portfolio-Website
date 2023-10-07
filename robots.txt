@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ninadjangle.com/sitemap.xml
+Sitemap: https://ninja3011.github.io/sitemap.xml

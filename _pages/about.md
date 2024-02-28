@@ -6,7 +6,7 @@ subtitle: <a href='#'>Silicon Design Engineer</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_ninad.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>GH: ninja3011</p>
